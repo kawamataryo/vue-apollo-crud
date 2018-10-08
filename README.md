@@ -5,7 +5,10 @@ vue cli3, apollo, graphQLでのCRUD実装のサンプル
 以下からデモが閲覧可能  
 https://vue-sample-crud.firebaseapp.com  
 
-![demo2.gif](../sample-crud/src/assets/demo2.gif)
+![demo2.gif](src/assets/demo2.gif)
+
+実装についてはqiitaでまとめています。  
+https://qiita.com/ryo2132/items/429234c9de1b546b3406
 
 
 

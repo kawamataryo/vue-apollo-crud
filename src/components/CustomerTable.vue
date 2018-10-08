@@ -178,6 +178,7 @@
       // 更新
       // --------------------------------
       updateCustomer: function () {
+        this.progress = true
         this.$apollo.mutate({
           mutation: UPDATE_CUSTOMER,
           variables: {
